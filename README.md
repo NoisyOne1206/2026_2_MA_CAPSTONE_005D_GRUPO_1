@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Asignatura / Sección** | 2026_2_MA_CAPSTONE_005D |
-| **Grupo** | [GRUPO_1 — confirmar identificador de grupo asignado por la coordinación] |
+| **Grupo** | Grupo 1
 | **Institución** | DUOC UC — Sede Maipú |
 | **Periodo de ejecución** | 13 de agosto al 27 de noviembre de 2026 (16 semanas) |
 | **Metodología** | RUP híbrida, con iteraciones semanales |
