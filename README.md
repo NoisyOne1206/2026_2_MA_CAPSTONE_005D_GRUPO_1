@@ -144,7 +144,7 @@ Verificado en emulador Android (14 de octubre de 2026):
 - Detalle de sesión con el plan que entrega la función `engine` (`GET /plan`).
 - Pantalla de Progreso conectada a `v_diagnostico_ultimo`.
 
-Diseño: **68 pantallas** (teléfono, tablet, imágenes para compartir y PDF) cerradas en la iteración 9. Ver `design/inventario-pantallas.md`.
+Diseño: **68 pantallas** (teléfono, tablet, imágenes para compartir y PDF) cerradas en la iteración 9.
 
 En desarrollo:
 
@@ -270,8 +270,6 @@ Cada capa solo conoce a las que están debajo.
 | `src/components/` | Interfaz sin lógica de negocio |
 | `src/screens/` | Pantallas: unen estado y componentes |
 | `src/styles/` | `tokens.css` (sin modificar) y `global.css` |
-
-Detalle completo en `code/mapa-del-codigo.md`.
 
 ---
 
